@@ -6,3 +6,4 @@
 
 ## 목차
 1. [Database System](https://github.com/JinhyeokKo/Database_with_MySQL/tree/main/Database_System)
+2. [Relation_Data_Model](https://github.com/JinhyeokKo/Database_with_MySQL/tree/main/Relation_Data_Model)
